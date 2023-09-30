@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated developer with a lo
 As a developer, my primary expertise lies in:
 - **Front-end Development:** Creating responsive and user-friendly web interfaces using HTML, CSS, JavaScript, and modern frameworks like Bootstrap and React JS.
 
-- **Back-end Development:** Building server-side applications and APIs using Node.js, Express, and databases such as Django, MySQL, and etc.
+- **Back-end Development:** Building server-side applications and APIs using Django and databases such as MySQL, and etc.
 
 - **Full Stack Development:** Combining front-end and back-end skills to develop end-to-end web applications.
 
