@@ -1,35 +1,19 @@
-## Howdy 👋
+# Howdy, I’m Jovan Matthew
 
-<!--
-**jopanmatthew/jopanmatthew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web3 security researcher** · AI student
 
-Here are some ideas to get you started:
+I look for smart-contract flaws across DeFi, cross-chain infrastructure, and token standards. My reviews focus on state transitions, trust assumptions, and asset accounting. I aim to make findings easy to verify with clear impact and reproducible proofs of concept.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work on
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&center=true&width=435&lines=I+am+jopan%2C+security+researcher" width="100%" />
-<br><br>
-<pre>
-    💼 Web3 Security Researcher • Tech Enthusiast
-    💻 Solidity • EVM • Smart Contract Audit
-    📖 Breaking Codes
-    🎮 Eat • Sleep • Code • Repeat
-</pre>
+- Solidity and EVM security reviews
+- DeFi and cross-chain protocols
+- Public audit contests and responsible disclosures
 
-<br>
+### Find me
 
-[![](https://img.shields.io/badge/twitter-0a66c2)](https://x.com/jopantechh)
-[![](https://img.shields.io/badge/sherlock-8A2BE2)](https://audits.sherlock.xyz/watson/jopantech)
-[![](https://img.shields.io/badge/code4rena-blue)](https://code4rena.com/@jopantech)
-[![](https://img.shields.io/badge/cantina-69899c)](https://cantina.xyz/u/jopantech)
+[Portfolio](https://jopanmatthew.github.io) · [Writing](https://jopanmatthew.github.io/writing) · [Telegram](https://t.me/jopanmatthew) · [X](https://x.com/jopantechh)
 
-</div>
+### Contest profiles
+
+[Cantina](https://cantina.xyz/u/jopantech) · [Code4rena](https://code4rena.com/@jopantech) · [Sherlock](https://audits.sherlock.xyz/watson/jopantech)
